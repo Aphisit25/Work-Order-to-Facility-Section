@@ -1,13 +1,10 @@
 # Work-Order-to-Facility-Section
 
-![image](https://github.com/Aphisit25/Work-Order-to-Facility-Section/blob/main/image/example.jpg)
+# 1. Home page/ Can Create, Edit, View
 
-# Source Code สร้างภาพโปรไฟล์ ประเพณีรับน้องขึ้นดอย ๖๐
-Demo: https://cmu.project.in.th/
+![image](https://github.com/Aphisit25/Work-Order-to-Facility-Section/blob/main/image/W1.png)
 
-นำแนวคิดเดิมจากโปรเจค https://github.com/earthchie/we_love_the_king_generator มาใช้ แต่โค้ดทั้งหมด ถูกเขียนขึ้นมาใหม่ทุกบรรทัด ใช้ UIKit3 แทน Materialize Framework ที่มีปัญหามาก แต่ก็ยังคงใช้ Material Icons เหมือนเดิม นอกจากนี้ มีการนำเอา Fabric.js มาใช้เพื่อทำให้สามารถจัดการภาพใน Canvas ได้ง่ายขึ้น และมี User Experience ที่ดีขึ้น
+# 2. Page Edit, Create, Approve
 
-ไฟล์ CSS อาจจะรกไปหน่อย เป็น Base CSS ที่โดยปกติผมจะใช้ร่วมกับโปรเจคอื่นๆ ทำให้มี CSS ขยะที่ไม่ถูกเรียกใช้อยู่เยอะพอสมควร ขออภัยมา ณ ที่นี้ด้วย :p
+![image](https://github.com/Aphisit25/Work-Order-to-Facility-Section/blob/main/image/W2.png)
 
-## License
-WTFPL 2.0 http://www.wtfpl.net/

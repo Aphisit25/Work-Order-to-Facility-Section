@@ -1,6 +1,6 @@
 # Work-Order-to-Facility-Section
 
-![image](https://user-images.githubusercontent.com/7013039/30037818-e31d2e2c-91e8-11e7-992d-e7e13367a059.png)
+![image](https://github.com/Aphisit25/Work-Order-to-Facility-Section/blob/main/image/example.jpg)
 
 # Source Code สร้างภาพโปรไฟล์ ประเพณีรับน้องขึ้นดอย ๖๐
 Demo: https://cmu.project.in.th/
